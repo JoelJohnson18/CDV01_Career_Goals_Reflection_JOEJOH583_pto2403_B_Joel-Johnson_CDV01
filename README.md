@@ -16,65 +16,76 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:** Joel Johnson
+- **Date:**18/07/1998
+- **Current Role/Position:**Part time student, data analyst and fitness trainer
+- **Field of Interest:**Front end Developer
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
+    - HTML, CSS and JavaScript
+    - Going more in depth with the differetn coding languages. Continue to upskill myself with HTML, CSS and JavaScript
 2. **Interests and Values**:
     
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+    - Getting to understand the cyberworld and how it works.
+    - Taking responsibility, teamwork, good communication and being punctual in all aspect in work.
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
+    - front end developer, web developer,app developer,front end engineer and javascript developer.
+    - Web developer, app developer and front end developer.
 2. **Alignment with Personal Profile**:
     
-    - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+    - it will work well if i continue to upskill myself and believe in my values. The skills that I have will be for the job i want.
+    - There is always room for improvement, so i will look for opportunities to upskill myslef and learn different coding languages.
 
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
     
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
+    - complete my studies(front end developer) and apply for remote jobs in the front end developer role, i wont ignore other opportunities but that is my main focus.
+    - Completing my studies to equip myself for the front end developer jobs i will be applying for.
 2. **Long-term Goals** (3-5 years and beyond):
     
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
+    - Completed my front end developer and then moving on to study back end developer to become a fullstack developer. Be in a senior developer roll for a remote company.
+    - By continously improving my self and equiping my self for the future.
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
+    - Getting through my 1 year course with CodeSpace, research on linkedin and indeed for remote jobs in front end development. When im successful in the above short courses and back end developer studying will start.
+    
 2. **Preparation for Long-term Goals**:
     
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+    - Continue to upskill myself with short courses. By my 3rd year in the field majority of my major studies would be completed and will be looking at becoming senior developer by hit my targets that are required and going above and beyond.
+    
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
     
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+    - Funding and job opportunitie. Need to find more websites for job opportunities
+    - Networking for funding and for the job opportunitites 
 2. **Opportunities for Growth**:
     
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
+    - Mastering new technology, expand my skill set, build a strong portfolio, networking and continuing education.
+    - Networking:
+Attend industry events, conferences, and meetups to meet other professionals in the field and expand your network.
+Join online communities, forums, and social media groups related to front end development to connect with like-minded individuals and stay updated with industry trends.
+Participate in hackathons, coding competitions, and collaborative projects to collaborate with others and showcase your skills.
+Mentorship:
+Find a mentor who is experienced in front end development and can provide guidance, advice, and feedback on your career path.
+Look for mentorship programs offered by companies, professional organizations, or online platforms that match mentors with mentees in the tech industry.
+Be open to learning from others and be proactive in seeking feedback and advice from your mentor.
+Educational Opportunities:
+Take online courses, workshops, or bootcamps to learn new skills and stay updated with the latest technologies and trends in front end development.
+Pursue certifications or advanced degrees in front end development, computer science, or a related field to enhance your knowledge and credentials.
+Consider joining a coding bootcamp or enrolling in a university program to gain a deeper understanding of front end development principles and practices.
 
 ### Submission
 
